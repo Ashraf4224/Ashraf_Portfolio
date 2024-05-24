@@ -8,13 +8,13 @@ import Skills from "./pages/skills/Skills";
 function App() {
   return (
     <div className="w-full h-full bg-[#585b5f] text-neutral-300">
-      <div className="px-6">
-        <Navbar />
+      <Navbar />
+      <div className="px-2">
         <Home />
         <About />
+        <Skills />
         <Projects />
         <Contact />
-        <Skills />
       </div>
     </div>
   );
