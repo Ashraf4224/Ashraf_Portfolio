@@ -4,7 +4,7 @@ import { Cursor, useTypewriter } from "react-simple-typewriter";
 
 const HomeLeft = () => {
   const [list] = useTypewriter({
-    words: ["Full Stack Developer.", "UI Designer.", "Big Data Developer."],
+    words: ["Full Stack Developer.", "UI Designer.", "Developer."],
     loop: true,
     typeSpeed: 20,
     delaySpeed: 2000,
