@@ -23,7 +23,7 @@ const Skills = () => {
   return (
     <section
       id="skills"
-      className="w-full h-screen pt-6 pd-6 border-b-[1px] border-gray-300 font-serif"
+      className="w-full h-full md:h-screen pt-6 pd-6 border-b-[1px] border-gray-300 font-serif"
     >
       <div className="flex flex-col gap-2 ">
         <h1 className="text-center text-2xl">Skills</h1>
