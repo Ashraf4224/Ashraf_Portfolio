@@ -6,7 +6,7 @@ const Home = () => {
   return (
     <section
       id="home"
-      className="w-full h-[700px] pt-6 pd-6 border-b-[1px] border-gray-300 flex flex-col 
+      className="w-full h-full md:h-screen pt-4 pd-6 border-b-[1px] border-gray-300 flex flex-col 
       md:flex-row items-center gap-2"
     >
       <div className="md:w-1/2 w-full h-full flex items-center">

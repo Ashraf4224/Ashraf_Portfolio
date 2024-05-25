@@ -10,6 +10,11 @@ const menuList = [
         link:"about",
     },
     {
+        id:5,
+        name:"Skills",
+        link:"skills",
+    },
+    {
         id:3,
         name:"Projetcs",
         link:"projects",
@@ -19,11 +24,7 @@ const menuList = [
         name:"Contact",
         link:"contact",
     },
-    {
-        id:5,
-        name:"Skills",
-        link:"skills",
-    },
+    
 ]
 
 export default menuList;
